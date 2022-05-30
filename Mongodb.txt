@@ -1,0 +1,13 @@
+mongosh "mongodb+srv://biota-nfts.9ppjb.mongodb.net/db_maps" --apiVersion 1 --username <username>
+irshadkhan22002@gmail.com
+123QWERTY
+
+
+db name 	db_maps
+collection 	coll_maps
+https://cloud.mongodb.com/v2/623ca3e7cc1e8a0eb2c9b4ad#clusters
+mongodb+srv://<username>:<password>@biota-nfts.9ppjb.mongodb.net/?retryWrites=true&w=majority
+
+
+dbuser: biotadev 
+pass: 	SaA0BgAbAF2g45oT

@@ -1,0 +1,63 @@
+{
+  "projectDetails": {
+    "name": "demo",
+    "id": 1231,
+    "description": "my demo project",
+    "characteristics": {
+      "biodiversity": "1/5",
+      "environment": "2/4",
+      "water": "4/5",
+      "trees": "3/5"
+    }
+  },
+  "geoJson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "stroke": "#ffffff",
+          "stroke-width": 6,
+          "stroke-opacity": 1,
+          "fill": "#61ffad",
+          "fill-opacity": 0.5
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -83.85322451591492,
+                10.331158413336253
+              ],
+              [
+                -83.85691523551941,
+                10.331179523128524
+              ],
+              [
+                -83.85691523551941,
+                10.330878708454897
+              ],
+              [
+                -83.85764479637146,
+                10.330915650623309
+              ],
+              [
+                -83.85765552520752,
+                10.330345685256011
+              ],
+              [
+                -83.85388970375061,
+                10.330335130332053
+              ],
+              [
+                -83.85322451591492,
+                10.331158413336253
+              ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}
